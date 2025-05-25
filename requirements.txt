@@ -1,0 +1,6 @@
+pyqt5==5.15.7
+pyqtgraph==0.12.4
+neo4j==4.4.5
+networkx==2.6.3
+python-dotenv==0.19.2
+numpy==1.21.5
